@@ -84,7 +84,7 @@ $ git add file2.txt file3.txt
 $ git commit -m "add 3 files."
 ```
 -----
-## 3、版本回退
+## 3、版本历史回退
 
 
 
